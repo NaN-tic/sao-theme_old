@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg53383" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:version="0.46" sodipodi:docbase="/home/tigert/cvs/freedesktop.org/tango-icon-theme/scalable/mimetypes" sodipodi:docname="application-x-executable.svg" sodipodi:version="0.32" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 48 48"
+	 style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2B5082;}
+	.st1{fill:#A6D0F0;}
+</style>
+<defs>
+	
+	
+		<inkscape:perspective  id="perspective22" inkscape:persp3d-origin="24 : 16 : 1" inkscape:vp_x="0 : 24 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="48 : 24 : 1" sodipodi:type="inkscape:persp3d">
+		</inkscape:perspective>
+</defs>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer2" inkscape:cx="22.871258" inkscape:cy="31.58696" inkscape:document-units="px" inkscape:grid-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:showpageshadow="false" inkscape:window-height="697" inkscape:window-width="716" inkscape:window-x="414" inkscape:window-y="151" inkscape:zoom="4" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g>
+	<g>
+		<polygon class="st0" points="23.5,46 4,35.9 4,34.2 8.9,31.8 9.6,33.1 5.6,35.1 23.5,44.3 44.3,33.6 38.9,30.8 39.6,29.5 46,32.7 
+			46,34.4 		"/>
+	</g>
+	<g>
+		<path class="st1" d="M38.8,21.9L35,21.1l0-0.4c0-1.2-0.2-1.9-0.5-2.8l-0.1-0.4l3.4-2.1L35.1,11l-3.4,2.1l-0.3-0.3
+			c-0.7-0.7-1.2-1.1-2.3-1.6L28.8,11l0.9-3.8l-4.9-1.1l-0.9,3.8l-0.4,0c-1,0-1.6,0.2-2.3,0.3l-0.9,0.2l-2.1-3.4l-4.4,2.7l2.1,3.4
+			l-0.3,0.3c-0.7,0.7-1.1,1.2-1.6,2.3l-0.2,0.3L10,15.2l-1.2,5l4,0.9l0,0.4c0,1.2,0.2,1.7,0.4,2.5l0.2,0.5l-3.4,2.1l2.7,4.4l3.4-2.1
+			l0.3,0.3c0.7,0.7,1.2,1.1,2.3,1.6l0.3,0.2l-0.9,4l5,1.2l0.9-4l0.4,0c1,0,1.6-0.2,2.3-0.3l0.9-0.2l2.1,3.4l4.4-2.7l-2.1-3.4
+			l0.3-0.3c0.6-0.7,1.1-1.2,1.6-2.2l0.2-0.3l3.5,0.8L38.8,21.9z M22.9,25.7c-2.5-0.6-4.1-3.1-3.5-5.6s3.1-4.1,5.6-3.5
+			c2.5,0.6,4.1,3.1,3.5,5.6S25.4,26.3,22.9,25.7z"/>
+		<path class="st0" d="M38.4,28.2l1.6-7l-4-0.9c0-1-0.2-1.6-0.4-2.3l3.6-2.2l-3.8-6.1l-3.6,2.2c-0.5-0.5-1.1-0.9-1.9-1.4l0.9-4
+			L24,4.9l-0.9,4c-0.9,0-1.5,0.2-2.1,0.4l-0.2,0l-2.2-3.6l-6.1,3.8l2.2,3.6c-0.5,0.6-0.9,1.1-1.4,1.9l-4-0.9l-1.6,7l4.2,1
+			c0,1,0.2,1.5,0.4,2.2l-3.6,2.2l3.8,6.1l3.6-2.2c0.5,0.5,1.1,0.9,1.9,1.4l-1,4.2l7,1.6l1-4.2c0.9,0,1.5-0.2,2.1-0.4l0.2,0l2.2,3.6
+			l6.1-3.8L33.3,29c0.5-0.5,0.9-1,1.3-1.8L38.4,28.2z M34,26.5c-0.5,1-1,1.5-1.6,2.2l-0.3,0.3l2.1,3.4L29.8,35l-2.1-3.4l-0.9,0.2
+			c-0.7,0.2-1.3,0.3-2.3,0.3l-0.4,0l-0.9,4l-5-1.2l0.9-4l-0.3-0.2c-1.1-0.6-1.6-1-2.3-1.6L16.2,29l-3.4,2.1l-2.7-4.4l3.4-2.1
+			L13.3,24c-0.3-0.8-0.4-1.3-0.4-2.5l0-0.4l-4-0.9l1.2-5l3.8,0.9l0.2-0.3c0.6-1.1,1-1.6,1.6-2.3l0.3-0.3l-2.1-3.4l4.4-2.7l2.1,3.4
+			l0.9-0.2c0.7-0.2,1.3-0.3,2.3-0.3l0.4,0l0.9-3.8l4.9,1.1L28.8,11l0.3,0.2c1.1,0.6,1.6,1,2.3,1.6l0.3,0.3l3.4-2.1l2.7,4.4l-3.4,2.1
+			l0.1,0.4c0.3,0.9,0.4,1.6,0.5,2.8l0,0.4l3.8,0.9l-1.2,5l-3.5-0.8L34,26.5z"/>
+		<path class="st0" d="M25,16.5c-2.5-0.6-5.1,1-5.6,3.5s1,5.1,3.5,5.6c2.5,0.6,5.1-1,5.6-3.5S27.5,17.1,25,16.5z M23.1,24.7
+			c-2-0.5-3.2-2.5-2.8-4.4c0.5-2,2.5-3.2,4.4-2.8c2,0.5,3.2,2.5,2.8,4.4C27.1,23.9,25.1,25.2,23.1,24.7z"/>
+	</g>
+</g>
+</svg>
